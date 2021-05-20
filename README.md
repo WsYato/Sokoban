@@ -31,16 +31,16 @@ How to create your own levels:
 		###;
 	
 	
-		'#' is wall.
-		'-' is ground.
-		'X' is box.
-		'*' is point.
-		'O' is solved box.
-		'P' is player.
-		' ' is dint.
+	'#' is wall.
+	'-' is ground.
+	'X' is box.
+	'*' is point.
+	'O' is solved box.
+	'P' is player.
+	' ' is dint.
 
 	
-		For more information take a look at the premade levels file named.
+	For more information take a look at the premade levels file named.
 
 2. Load the level.
 
