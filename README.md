@@ -40,7 +40,7 @@ How to create your own levels:
 	' ' is dint.
 
 	
-	For more information take a look at the premade levels file named.
+	For more information take a look at the premade levels file.
 
 2. Load the level.
 
